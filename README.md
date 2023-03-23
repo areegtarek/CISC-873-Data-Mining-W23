@@ -1,4 +1,5 @@
 # Wish.com Product Rating Prediction
+Kaggle Competitions: https://www.kaggle.com/competitions/cisc-873-dm-w23-a1
 
 ![image](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4409738%2Fa89e55ba3a0204c78be0eb154c79a6a0%2FA21ADFF0-AB9D-44E7-ABE0-F2E91CB19E1D.jpeg?generation=1601161987220890&alt=media)
 
